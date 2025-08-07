@@ -1,0 +1,14 @@
+{
+    "name": "aaronfc/phpx",
+    "description": "PHP component library with automatic XSS protection",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "aaronfc\\phpx\\": ""
+        }
+    },
+    "require": {
+        "php": ">=8.0"
+    }
+}
